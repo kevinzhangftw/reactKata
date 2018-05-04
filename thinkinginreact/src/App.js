@@ -1,9 +1,5 @@
 import React, { Component } from 'react';
 import './App.css'
-import ProductCategoryRow from './compoents/ProductCategoryRow'
-import ProductRow from './compoents/ProductRow'
-import ProductTable from './compoents/ProductTable'
-import SearchBar from './compoents/SearchBar'
 import FilterableProductTable from './compoents/FilterableProductTable'
 
 class App extends Component {
